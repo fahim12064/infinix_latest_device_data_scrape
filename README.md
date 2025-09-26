@@ -1,4 +1,4 @@
-# Infinix Mobile Spec Scraper and JSON Converter
+# Infinix Mobile Spec Scraper
 
 This project is an automated Python script that scrapes the latest mobile phone specifications from the official Infinix Bangladesh website. It uses Playwright for browser automation to gather product data, then leverages the z.ai chat service to parse the unstructured text into a clean JSON format. Finally, it saves the structured data into individual `.txt` files for each phone.
 
