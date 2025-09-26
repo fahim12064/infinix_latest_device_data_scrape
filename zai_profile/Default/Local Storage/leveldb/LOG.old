@@ -1,0 +1,23 @@
+2025/09/26-19:12:19.655 323c Reusing MANIFEST C:\All_data\Automation\infinix_latest_mobile_data_scraper\zai_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/26-19:12:19.706 323c Recovering log #8
+2025/09/26-19:12:19.737 323c Level-0 table #11: started
+2025/09/26-19:12:19.794 323c Level-0 table #11: 107158 bytes OK
+2025/09/26-19:12:19.925 323c Delete type=0 #8
+2025/09/26-19:13:04.099 11c8 Level-0 table #14: started
+2025/09/26-19:13:04.159 11c8 Level-0 table #14: 106610 bytes OK
+2025/09/26-19:13:04.165 11c8 Delete type=0 #12
+2025/09/26-19:13:08.000 11c8 Level-0 table #16: started
+2025/09/26-19:13:08.069 11c8 Level-0 table #16: 106962 bytes OK
+2025/09/26-19:13:08.079 11c8 Delete type=0 #13
+2025/09/26-19:13:08.087 11c8 Compacting 4@0 + 1@1 files
+2025/09/26-19:13:08.164 11c8 Generated table #17@0: 12 keys, 107360 bytes
+2025/09/26-19:13:08.165 11c8 Compacted 4@0 + 1@1 files => 107360 bytes
+2025/09/26-19:13:08.170 11c8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/26-19:13:08.172 11c8 Delete type=2 #7
+2025/09/26-19:13:08.173 11c8 Delete type=2 #9
+2025/09/26-19:13:08.173 11c8 Delete type=2 #11
+2025/09/26-19:13:08.173 11c8 Delete type=2 #14
+2025/09/26-19:13:08.173 11c8 Delete type=2 #16
+2025/09/26-19:14:33.028 11c8 Level-0 table #19: started
+2025/09/26-19:14:33.066 11c8 Level-0 table #19: 107353 bytes OK
+2025/09/26-19:14:33.073 11c8 Delete type=0 #15
